@@ -14,7 +14,8 @@ A
 npm install -g @angular/cli
 
 #install mongoDB for future class work
-choco install mongodb 
+choco install mongodb-compass
+choco install mongodb-database-tools
 #if it is the first time, you want to install all when promted, A for all
 A
 
